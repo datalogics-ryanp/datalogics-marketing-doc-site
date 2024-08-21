@@ -1,5 +1,5 @@
 ---
-Title:This is a cool page
+title: this is a really cool page
 ---
 
 # Cool Page page

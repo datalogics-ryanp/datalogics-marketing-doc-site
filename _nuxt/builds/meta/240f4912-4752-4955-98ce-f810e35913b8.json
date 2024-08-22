@@ -1,0 +1,1 @@
+{"id":"240f4912-4752-4955-98ce-f810e35913b8","timestamp":1724351161471,"matcher":{"static":{"/":{"prerender":true},"/api/search.json":{"prerender":true}},"wildcard":{},"dynamic":{}},"prerendered":["/getting-started","/getting-started/test-page","/another-chapter","/another-chapter/cool-page","/getting-started/installation","/getting-started/usage"]}

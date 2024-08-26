@@ -14,7 +14,7 @@ export default defineAppConfig({
   },
   header: {
     logo: {
-      alt: 'Datalogics Logo',
+      alt: '',
       light: '/DL-Full-Logo-LightBG-Blue.png',
       dark: '/DL-Full-Logo-DarkBG-Blue.png'
     },

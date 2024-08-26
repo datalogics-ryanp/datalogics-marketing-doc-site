@@ -1,7 +1,7 @@
 export default defineAppConfig({
   ui: {
-    primary: 'green',
-    gray: 'slate',
+    primary: 'amber',
+    gray: 'cool',
     footer: {
       bottom: {
         left: 'text-sm text-gray-500 dark:text-gray-400',
@@ -10,7 +10,7 @@ export default defineAppConfig({
     }
   },
   seo: {
-    siteName: 'Nuxt UI Pro - Docs template'
+    siteName: 'Datalogics Documentation'
   },
   header: {
     logo: {
@@ -32,7 +32,7 @@ export default defineAppConfig({
     colorMode: false,
     links: [{
       'icon': 'i-simple-icons-nuxtdotjs',
-      'to': 'https://nuxt.com',
+      'to': 'https://datalogics.com',
       'target': '_blank',
       'aria-label': 'Nuxt Website'
     }, {

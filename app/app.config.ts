@@ -10,16 +10,16 @@ export default defineAppConfig({
     }
   },
   seo: {
-    siteName: 'Datalogics Documentation'
+    siteName: 'Nuxt UI Pro - Docs template'
   },
   header: {
     logo: {
       alt: '',
-      light: '',
-      dark: ''
+      light: '/DL-Full-Logo-LightBG-Blue.png',
+      dark: '/DL-Full-Logo-DarkBG-Blue.png'
     },
     search: true,
-    colorMode: true,
+    colorMode: false,
     links: [{
       'icon': 'i-simple-icons-github',
       'to': 'https://github.com/nuxt-ui-pro/docs',
